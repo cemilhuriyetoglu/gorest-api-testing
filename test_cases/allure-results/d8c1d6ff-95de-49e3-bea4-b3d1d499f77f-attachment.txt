@@ -1,0 +1,1 @@
+{'code': 201, 'meta': None, 'data': {'id': 3792, 'name': 'Cemil', 'email': 'cemil26@test.com', 'gender': 'male', 'status': 'active'}}
